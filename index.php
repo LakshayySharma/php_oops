@@ -14,5 +14,7 @@
         }
     }
 
+    $user1 = new User('Lakshay', 24);
+
  
 ?>
