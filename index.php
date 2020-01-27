@@ -15,6 +15,7 @@
     }
 
     $user1 = new User('Lakshay', 24);
+    echo $user1->sayHello();
 
  
 ?>
